@@ -6,6 +6,11 @@ El objetivo de está base de datos es poder captar e indenfificar clientes con u
   
 https://github.com/raulch3/Cr-ditos_basesDATOS/issues
 
+- Relaciones de modelos
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6d778804-9805-4fc1-9d1f-b6eafacf2c63" />
+
+
 *** Información General ***
 
 <img width="1366" height="768" alt="ScreenShot_03_11_2026_10_14_05_p  m" src="https://github.com/user-attachments/assets/ffef4257-7a7b-4a0c-87d7-efc7430b5ae7" />

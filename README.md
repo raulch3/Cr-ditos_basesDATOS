@@ -1,4 +1,6 @@
-Base de datos (propio) - CREDITOS ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### Base de datos para prueba - CREDITOS
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
 El objetivo de está base de datos es poder captar e indenfificar clientes con una buen historial crediticio y saber su capacidad de acuerdo a su segmento. Se calcula con descuentos activos, historial crediticios y productos mas utilizado por el cliente.
 

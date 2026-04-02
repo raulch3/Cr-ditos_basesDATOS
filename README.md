@@ -1,4 +1,4 @@
-Base de datos (propio) - CREDITOS
+Base de datos (propio) - CREDITOS ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 El objetivo de está base de datos es poder captar e indenfificar clientes con una buen historial crediticio y saber su capacidad de acuerdo a su segmento. Se calcula con descuentos activos, historial crediticios y productos mas utilizado por el cliente.
 

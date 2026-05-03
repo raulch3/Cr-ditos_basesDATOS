@@ -8,9 +8,16 @@ El objetivo de está base de datos es poder captar e indenfificar clientes con u
   
 https://github.com/raulch3/Cr-ditos_basesDATOS/issues
 
-## Power BI
+
+## Power BI - Control de seguimiento por Cliente
+
 
 [Screen Recording - Made with FlexClip (6).webm](https://github.com/user-attachments/assets/acb60f9b-e4bf-4160-a1ab-729af6df2fe8)
+
+
+## POWER BI - Control de siguiemiento por  Sucursal y Cliente
+
+[61b3674c-70c0-4006-b4be-43b40b164d63.webm](https://github.com/user-attachments/assets/37634c7a-70c4-4447-9cad-a2de24a75ddb)
 
 - Relaciones de modelos
 

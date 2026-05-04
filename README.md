@@ -18,8 +18,9 @@ https://github.com/raulch3/Cr-ditos_basesDATOS/issues
 
 
 ## POWER BI - Control de siguiemiento por  Sucursal y Cliente
+[c3b3d128-7d07-45ba-9bb3-6d2b820c4056.webm](https://github.com/user-attachments/assets/64aaf571-5620-4fdd-be5d-cc4dd6caad21)
 
-[61b3674c-70c0-4006-b4be-43b40b164d63.webm](https://github.com/user-attachments/assets/37634c7a-70c4-4447-9cad-a2de24a75ddb)
+
 
 - Relaciones de modelos
 

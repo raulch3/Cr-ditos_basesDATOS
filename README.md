@@ -5,6 +5,7 @@
 El objetivo de está base de datos es poder captar e indenfificar clientes con una buen historial crediticio y saber su capacidad de acuerdo a su segmento. Se calcula con descuentos activos, historial crediticios y productos mas utilizado por el cliente.
 
 ## Ver manipulación de estos datos desde excel.
+# Sin terminar
   
 https://github.com/raulch3/Cr-ditos_basesDATOS/issues
 

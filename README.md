@@ -4,15 +4,16 @@
 
 El objetivo de está base de datos es poder captar e indenfificar clientes con una buen historial crediticio y saber su capacidad de acuerdo a su segmento. Se calcula con descuentos activos, historial crediticios y productos mas utilizado por el cliente.
 
-## Power BI - Control de seguimiento por Cliente
+## Power BI - Control de seguimiento por Analista y Sucural
 
 
 [21df7b8e-74ff-49b0-b0bf-4b138f486d48.webm](https://github.com/user-attachments/assets/d60988ef-f625-4917-b878-f2030a1267d8)
 
 
 
-## POWER BI - Control de siguiemiento por  Sucursal y Cliente
-[c3b3d128-7d07-45ba-9bb3-6d2b820c4056.webm](https://github.com/user-attachments/assets/64aaf571-5620-4fdd-be5d-cc4dd6caad21)
+## POWER BI - Control de siguiemiento por cliente
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/598a82a5-5dc4-4bb8-b9ac-d143a1acfa60" />
 
 
 

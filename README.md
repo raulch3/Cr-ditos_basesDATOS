@@ -4,17 +4,11 @@
 
 El objetivo de está base de datos es poder captar e indenfificar clientes con una buen historial crediticio y saber su capacidad de acuerdo a su segmento. Se calcula con descuentos activos, historial crediticios y productos mas utilizado por el cliente.
 
-## Ver manipulación de estos datos desde excel.
-
-## Sin terminar
-  
-https://github.com/raulch3/Cr-ditos_basesDATOS/issues
-
-
 ## Power BI - Control de seguimiento por Cliente
 
 
-[Screen Recording - Made with FlexClip (6).webm](https://github.com/user-attachments/assets/acb60f9b-e4bf-4160-a1ab-729af6df2fe8)
+[21df7b8e-74ff-49b0-b0bf-4b138f486d48.webm](https://github.com/user-attachments/assets/d60988ef-f625-4917-b878-f2030a1267d8)
+
 
 
 ## POWER BI - Control de siguiemiento por  Sucursal y Cliente
